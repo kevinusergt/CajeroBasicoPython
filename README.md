@@ -16,5 +16,5 @@ copia: https://github.com/kevinusergt/CajeroBasicoPython.git
 y luego en ordenador localizas cualquier carpeta..
 Dentro de esa carpeta abres la terminal y escribes ....
 
-''' git clone https://github.com/kevinusergt/CajeroBasicoPython.git '''
+``` git clone https://github.com/kevinusergt/CajeroBasicoPython.git ```
 
